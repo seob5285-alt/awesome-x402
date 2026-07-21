@@ -68,6 +68,12 @@ The core payment facilitation proxy handling:
 
 ## 📦 Ecosystem Components
 
+### 💎 Paid API Platforms
+
+| Platform | Description | Status |
+|----------|-------------|--------|
+| **AgentServices** | 54 x402-paid data APIs — crypto prices, DeFi yields, on-chain analytics, market intelligence, AI inference. 37 MCP tools, streamable-http. $0.01-$0.25/call USDC on Base | ✅ Live |
+
 ### 🖥️ Model Context Protocol (MCP) Servers
 
 <div align="center">
@@ -78,6 +84,7 @@ The core payment facilitation proxy handling:
 | **base-usdc-mcp** | Base L2 USDC balance and transaction management | ✅ Active |
 | **agent-wallet-mcp** | Secure wallet management for autonomous agents | 🔄 Development |
 | **payment-router-mcp** | Smart routing for multi-destination payments | 🔄 Development |
+| **AgentServices** | 54 x402-paid data APIs for AI agents (crypto, DeFi, market intelligence). 37 MCP tools, USDC on Base | ✅ Active |
 
 </div>
 
