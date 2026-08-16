@@ -208,6 +208,7 @@ echo "USDC_CONTRACT=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913" >> .env
 | 🤝 **Multi-Agent Systems** | Agent-to-agent service marketplace transactions | $8.2B |
 | 🌐 **IoT Device Networks** | Machine-to-machine payments for sensor data | $12.6B |
 | ⚡ **Computational Markets** | On-demand GPU/CPU resource purchasing | $6.8B |
+| 🇨🇴 **Colombia TRM** | Official Superintendencia Financiera daily USD/COP via prepaid x402 ([GET /trm](https://x402.lagaceta.net/trm), $0.005 USDC). | Live |
 
 ---
 
