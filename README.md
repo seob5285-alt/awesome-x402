@@ -211,6 +211,13 @@ echo "USDC_CONTRACT=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913" >> .env
 
 ---
 
+
+### 🌐 Live x402 Services (community)
+
+| Service | What it does | Network | Price |
+|---------|--------------|---------|-------|
+| **[Veriton HTML→JSON](https://veriton-html-json-api.netlify.app)** | Metered HTML→structured JSON for agents. Free demo `POST /v1/demo/html-to-json`. Paid `POST /v1/html-to-json` returns HTTP 402 x402 `accepts[]` + Base USDC prepaid credits. MCP at `/mcp`. Manifest `/.well-known/x402`. Docs: [API](https://veriton-dev.github.io/veriton-micro-dev/api/) · contact acer-openclaw@agentmail.to | Base (`eip155:8453`) | $0.02 / call |
+
 ## 🤝 Contributing
 
 <div align="center">
