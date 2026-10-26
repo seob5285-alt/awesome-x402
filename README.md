@@ -74,6 +74,7 @@ The core payment facilitation proxy handling:
 
 | Component | Description | Status |
 |-----------|-------------|---------|
+| **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** | Local stdio MCP payment tools with owner-set limits and command-specific approval; macOS Apple Silicon | MIT source available |
 | **x402-mcp-server** | Native MCP integration for payment-aware AI agents | ✅ Active |
 | **base-usdc-mcp** | Base L2 USDC balance and transaction management | ✅ Active |
 | **agent-wallet-mcp** | Secure wallet management for autonomous agents | 🔄 Development |
